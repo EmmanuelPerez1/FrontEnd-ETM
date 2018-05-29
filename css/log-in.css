@@ -1,0 +1,86 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Cardo;
+  color: rgb(0, 0, 0);
+}
+
+.background {
+  float: left;
+  width: 100%;
+  height: 900px;
+  background: rgb(0, 126, 147);
+  background: -webkit-linear-gradient(335deg, rgb(0, 126, 147) 18.80952380952381%, rgb(0, 42, 51) 76.90476190476191%) rgb(222, 222, 222);
+  background:    -moz-linear-gradient(335deg, rgb(0, 126, 147) 18.80952380952381%, rgb(0, 42, 51) 76.90476190476191%) rgb(222, 222, 222);
+  background:      -o-linear-gradient(335deg, rgb(0, 126, 147) 18.80952380952381%, rgb(0, 42, 51) 76.90476190476191%) rgb(222, 222, 222);
+  background:     -ms-linear-gradient(335deg, rgb(0, 126, 147) 18.80952380952381%, rgb(0, 42, 51) 76.90476190476191%) rgb(222, 222, 222);
+  background:         linear-gradient(115deg, rgb(0, 126, 147) 18.80952380952381%, rgb(0, 42, 51) 76.90476190476191%) rgb(222, 222, 222);
+}
+
+.main {
+  float: left;
+  width: 40%;
+  height: 280px;
+  margin: 113px 0 0 30.44271%;
+  border-radius: 30px;
+  background-color: rgb(193, 209, 212);
+}
+
+.password {
+  display: block;
+  float: left;
+  clear: both;
+  width: 73.4242209631%;
+  height: 24px;
+  margin: 11px 0 0 13.13368%;
+  padding: 0 10px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  background-color: rgb(242, 242, 242);
+  font-size: 0.813em;
+  color: rgb(0, 0, 0);
+}
+
+.psw {
+  float: left;
+  clear: both;
+  margin: 37px 0 0 13.13368%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.submit_one {
+  display: block;
+  float: left;
+  clear: both;
+  width: 35.6940509915%;
+  height: 30px;
+  margin: 35px 0 0 30.47743%;
+  border-radius: 30px;
+  background-color: rgb(0, 126, 147);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.submit_one:hover {
+  background-color: rgb(179, 179, 0);
+}
+
+.user {
+  float: left;
+  margin: 21px 0 0 13.13368%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.username {
+  display: block;
+  float: left;
+  clear: both;
+  width: 73.4242209631%;
+  height: 24px;
+  margin: 7px 0 0 12.9991299999%;
+  padding: 0 10px;
+  background-color: rgb(242, 242, 242);
+  font-size: 0.813em;
+  color: rgb(0, 0, 0);
+}
